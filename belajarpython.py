@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1CMNT0pphRWIXhA8e3QWCq6erZZsj32QX
 """
 
-print("Selamat dan Semangat Irul:)")
+print("Selamat dan Semangat Codingers")
 
 a = 2
 b = 3
